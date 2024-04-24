@@ -1,7 +1,7 @@
-This is the standalone connection server for use with SonoBus which uses AOO.
+This is the standalone connection server for use with CoLabs which uses AOO.
 
-SonoBus can be found on github at https://github.com/essej/sonobus, or its
-main website at https://sonobus.net .
+CoLabs can be found on github at https://github.com/AmunsonAudio/CoLabs, or its
+main website at https://colabsinc.com .
 
 # BUILD
 
